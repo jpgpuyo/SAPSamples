@@ -1,0 +1,8 @@
+.settings/
+.sign/
+.metadata/
+.*delta*
+*.wgt
+.build
+.sdk_delta.info
+
